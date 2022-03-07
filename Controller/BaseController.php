@@ -5,5 +5,5 @@ use DCF\Bundle\FrameworkBundle\Controller\BaseController as DCFBaseController;
 
 class BaseController extends DCFBaseController
 {
-	protected $logger;
+  protected $logger;
 }
