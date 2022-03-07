@@ -13,5 +13,8 @@
   "require": {
     "php": ">=7.4",
     "digitalcampusframework/dcf-symfony-framework": "dev-main"
-  }
+  },
+    "autoload": {
+        "psr-4": { "WDN\\Bundle\\FrameworkBundle\\": "" }
+    }
 }
