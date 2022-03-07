@@ -3,6 +3,6 @@ namespace WDN\Bundle\FrameworkBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class WDNFrameworkBundle extends Bundle
+class FrameworkBundle extends Bundle
 {
 }
